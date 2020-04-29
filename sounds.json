@@ -7,5 +7,98 @@
     },
     "file": ["ehhh.mp3", "ehhh2.mp3", "ehhh3.mp3"],
     "type": "center"
+  },
+  {
+    "name": "Ahahaha",
+    "name_l10n": {
+      "zh": "啊哈哈哈"
+    },
+    "file": "ahhh.mp3",
+    "type": "normal"
+  },
+  {
+    "name": "Big sister~",
+    "name_l10n": {
+      "zh": "姐姐，姐姐～",
+      "ja": "お姉さん，お姉さん～"
+    },
+    "file": "onee-chan.mp3",
+    "type": "normal"
+  },
+  {
+    "name": "I'm not calling you!",
+    "name_l10n": {
+      "zh": "没叫你啊！",
+      "ja": "呼んで無いですけど！"
+    },
+    "file": "not-calling-you.mp3",
+    "type": "normal"
+  },
+  {
+    "name": "But I Shirakami don't believe in you!",
+    "name_l10n": {
+      "zh": "但是我白上不相信你的鬼话"
+    },
+    "file": "but-shirakami-do-not-believe-in-you.mp3",
+    "type": "normal"
+  },
+  {
+    "name": "I'm gonna kill ya all over here!",
+    "name_l10n": {
+      "zh": "就在这里把你们都杀光！"
+    },
+    "file": "GfbgRHGLOZw-503.5-505.9-gonna-kill-ya-all-over-here.mp3",
+    "type": "normal"
+  },
+  {
+    "name": "I wanna play Tetris with the girls as the blocks!​",
+    "name_l10n": {
+      "zh": "想把大家当作俄罗斯方块玩！",
+      "ja": "みんなをテトリスにして遊びたい！​"
+    },
+    "metadata": {
+      "site": "youtube",
+      "identifier": "_B-Q10J9KSg",
+      "time": {
+        "from": 0,
+        "to": 2
+      }
+    },
+    "file": "_B-Q10J9KSg--0--2.mp3",
+    "type": "normal"
+  },
+  {
+    "name": "Tetris sure is fun!​",
+    "name_l10n": {
+      "zh": "果然俄罗斯方块很有趣呢！",
+      "ja": "やっぱりテトリスは楽しいなぁ​！​"
+    },
+    "metadata": {
+      "site": "youtube",
+      "identifier": "_B-Q10J9KSg",
+      "time": {
+        "from": 57,
+        "to": 59
+      }
+    },
+    "file": "_B-Q10J9KSg--57--59.mp3",
+    "type": "normal"
+  },
+  {
+    "name": "I'll definitely kill everyone",
+    "name_l10n": {
+      "zh": "绝对要把大家都杀掉",
+      "ja": "絶対全員殺してやる"
+    },
+    "metadata": {
+      "site": "youtube",
+      "identifier": "GfbgRHGLOZw",
+      "time": {
+        "from": 503.55,
+        "to": 505.55
+      }
+    },
+    "file": "GfbgRHGLOZw--503--505.mp3",
+    "type": "normal"
   }
 ]
