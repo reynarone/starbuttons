@@ -169,5 +169,21 @@
     },
     "file": "LS6srVfrxIk--1327.3--1328.4.mp3",
     "type": "normal"
+  },
+  {
+    "//":"For translators: this is a meme of Watame, see youtu.be/h6IwhTuKSRk",
+    "name": "Sui-chan made no mistake watamever it was!",
+    "name_l10n": {
+      "zh": "wtm才没有错呢！"
+    },
+    "file": "IRr6aAS3zLQ--2596.4--2599.mp3",
+    "metadata": {
+      "site": "youtube",
+      "identifier": "IRr6aAS3zLQ",
+      "time": {
+        "from": 2596.4,
+        "to": 2599
+      }
+    }
   }
 ]

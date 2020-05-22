@@ -1,4 +1,4 @@
-importScripts("https://cdn.jsdelivr.net/npm/workbox-sw@5.1.3/build/workbox-sw.min.js", "/precache-manifest.d764d2920f4c75601014838351d0a21c.js");
+importScripts("https://cdn.jsdelivr.net/npm/workbox-sw@5.1.3/build/workbox-sw.min.js", "/precache-manifest.8eb6172dd654078921cde90514b6ddf1.js");
 
 const INITIAL_PRECACHING_URL = [
   "/assets/ehhh.mp3",
