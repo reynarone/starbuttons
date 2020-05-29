@@ -1,4 +1,4 @@
-importScripts("https://cdn.jsdelivr.net/npm/workbox-sw@5.1.3/build/workbox-sw.min.js", "/precache-manifest.feda7406844c56a0d25198b9da13bbbb.js");
+importScripts("https://cdn.jsdelivr.net/npm/workbox-sw@5.1.3/build/workbox-sw.min.js", "/precache-manifest.6dec062d5f47418cd5259cfc24d4919e.js");
 
 const INITIAL_PRECACHING_URL = [
   "/assets/ehhh.mp3",
@@ -22,9 +22,9 @@ workbox.routing.registerRoute(
     plugins: [
       new workbox.expiration.ExpirationPlugin({
         maxEntries: 120,
-        maxAgeSeconds: 30 * 24 * 60 * 60,
-      }),
-    ],
+        maxAgeSeconds: 30 * 24 * 60 * 60
+      })
+    ]
   })
 );
 
