@@ -1,4 +1,4 @@
-importScripts("https://cdn.jsdelivr.net/npm/workbox-sw@5.1.3/build/workbox-sw.min.js", "/precache-manifest.d37959a9645874d2323b9da492cdc5ca.js");
+importScripts("https://cdn.jsdelivr.net/npm/workbox-sw@5.1.3/build/workbox-sw.min.js", "/precache-manifest.109ebbcba07d23aea4085ccaa56d7e72.js");
 
 workbox.setConfig({
   modulePathCb(name, debug) {
