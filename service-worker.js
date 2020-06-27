@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.73efebe37018191c33eb48dd909c4881.js");
+importScripts("/precache-manifest.d5255d6aa4f4392bb6c07b0ca0991979.js");
 
 self.addEventListener("install", function(event) {
   event.waitUntil(self.skipWaiting());
